@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-![](./img/screenshot.png)
+![](./ezgif.com-video-to-gif.gif)
 
 ### Links
 
